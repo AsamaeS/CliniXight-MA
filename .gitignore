@@ -1,0 +1,39 @@
+# Node
+node_modules/
+.pnp
+.pnp.js
+.npm
+
+# Next.js
+.next/
+out/
+build/
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.env
+
+# MacOS/Windows
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Mock data / CSV outputs generated locally
+backend/scripts/*.csv

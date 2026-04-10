@@ -1,0 +1,528 @@
+﻿nom,dci,pathologie_cible,region,pharmacie,stock_actuel,seuil_alerte,statut
+Metformine 850mg,Metformine,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,177,128,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,218,188,STABLE
+Insuline Glargine,Insuline,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,442,70,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,368,118,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,401,174,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,304,130,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,241,79,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,561,175,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,376,130,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,367,70,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,248,65,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,492,137,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,214,141,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,673,188,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,452,50,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,476,156,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Chifa - Tanger,475,137,STABLE
+Metformine 850mg,Metformine,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,445,197,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,452,164,STABLE
+Insuline Glargine,Insuline,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,279,174,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,399,65,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,519,164,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,428,63,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,573,177,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,257,72,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,209,114,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,458,199,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,191,55,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,311,103,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,599,130,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,432,143,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,266,154,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,472,164,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Razi - Tanger,443,54,STABLE
+Metformine 850mg,Metformine,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,639,143,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,319,111,STABLE
+Insuline Glargine,Insuline,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,348,77,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,333,181,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,199,131,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,536,63,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,184,122,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,595,200,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,209,130,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,382,140,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,476,128,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,622,190,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,521,66,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,271,79,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,368,61,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,509,152,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Centrale - Tanger,420,79,STABLE
+Metformine 850mg,Metformine,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,455,60,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,260,147,STABLE
+Insuline Glargine,Insuline,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,389,76,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,400,164,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,383,126,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,547,116,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,401,161,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,235,170,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,190,167,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,294,167,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,363,95,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,636,159,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,378,169,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,294,196,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,221,76,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,598,171,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Tanger-Tétouan-Al Hoceïma,Pharmacie Salam - Tanger,640,180,STABLE
+Metformine 850mg,Metformine,Diabète,Région Oriental,Pharmacie Ibn Sina - Oriental,96,61,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Oriental,Pharmacie Ibn Sina - Oriental,246,136,STABLE
+Insuline Glargine,Insuline,Diabète,Région Oriental,Pharmacie Ibn Sina - Oriental,469,178,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Oriental,Pharmacie Ibn Sina - Oriental,408,176,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Oriental,Pharmacie Ibn Sina - Oriental,265,147,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Oriental,Pharmacie Ibn Sina - Oriental,312,137,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Oriental,Pharmacie Ibn Sina - Oriental,428,130,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Oriental,Pharmacie Ibn Sina - Oriental,452,120,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Oriental,Pharmacie Ibn Sina - Oriental,233,189,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Oriental,Pharmacie Ibn Sina - Oriental,264,86,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Oriental,Pharmacie Ibn Sina - Oriental,569,175,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Oriental,Pharmacie Ibn Sina - Oriental,114,89,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Oriental,Pharmacie Ibn Sina - Oriental,378,123,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Oriental,Pharmacie Ibn Sina - Oriental,539,82,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Oriental,Pharmacie Ibn Sina - Oriental,215,68,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Oriental,Pharmacie Ibn Sina - Oriental,361,79,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Oriental,Pharmacie Ibn Sina - Oriental,197,107,STABLE
+Metformine 850mg,Metformine,Diabète,Région Oriental,Pharmacie Salam - Oriental,342,127,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Oriental,Pharmacie Salam - Oriental,294,146,STABLE
+Insuline Glargine,Insuline,Diabète,Région Oriental,Pharmacie Salam - Oriental,646,198,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Oriental,Pharmacie Salam - Oriental,295,180,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Oriental,Pharmacie Salam - Oriental,331,61,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Oriental,Pharmacie Salam - Oriental,375,110,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Oriental,Pharmacie Salam - Oriental,100,58,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Oriental,Pharmacie Salam - Oriental,641,141,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Oriental,Pharmacie Salam - Oriental,406,145,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Oriental,Pharmacie Salam - Oriental,159,73,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Oriental,Pharmacie Salam - Oriental,456,188,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Oriental,Pharmacie Salam - Oriental,497,144,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Oriental,Pharmacie Salam - Oriental,559,136,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Oriental,Pharmacie Salam - Oriental,450,148,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Oriental,Pharmacie Salam - Oriental,311,113,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Oriental,Pharmacie Salam - Oriental,641,184,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Oriental,Pharmacie Salam - Oriental,147,123,STABLE
+Metformine 850mg,Metformine,Diabète,Région Oriental,Pharmacie Razi - Oriental,539,69,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Oriental,Pharmacie Razi - Oriental,512,78,STABLE
+Insuline Glargine,Insuline,Diabète,Région Oriental,Pharmacie Razi - Oriental,382,188,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Oriental,Pharmacie Razi - Oriental,124,86,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Oriental,Pharmacie Razi - Oriental,170,97,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Oriental,Pharmacie Razi - Oriental,529,61,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Oriental,Pharmacie Razi - Oriental,228,106,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Oriental,Pharmacie Razi - Oriental,478,161,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Oriental,Pharmacie Razi - Oriental,235,162,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Oriental,Pharmacie Razi - Oriental,399,92,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Oriental,Pharmacie Razi - Oriental,458,70,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Oriental,Pharmacie Razi - Oriental,490,187,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Oriental,Pharmacie Razi - Oriental,325,159,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Oriental,Pharmacie Razi - Oriental,495,149,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Oriental,Pharmacie Razi - Oriental,179,132,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Oriental,Pharmacie Razi - Oriental,439,154,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Oriental,Pharmacie Razi - Oriental,197,123,STABLE
+Metformine 850mg,Metformine,Diabète,Région Fès-Meknès,Pharmacie Al Amal - Fès,262,111,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Fès-Meknès,Pharmacie Al Amal - Fès,577,151,STABLE
+Insuline Glargine,Insuline,Diabète,Région Fès-Meknès,Pharmacie Al Amal - Fès,440,150,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Fès-Meknès,Pharmacie Al Amal - Fès,182,56,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Fès-Meknès,Pharmacie Al Amal - Fès,230,111,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Fès-Meknès,Pharmacie Al Amal - Fès,433,164,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Fès-Meknès,Pharmacie Al Amal - Fès,469,97,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Fès-Meknès,Pharmacie Al Amal - Fès,319,128,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Fès-Meknès,Pharmacie Al Amal - Fès,235,131,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Fès-Meknès,Pharmacie Al Amal - Fès,429,188,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Fès-Meknès,Pharmacie Al Amal - Fès,563,174,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Fès-Meknès,Pharmacie Al Amal - Fès,533,148,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Fès-Meknès,Pharmacie Al Amal - Fès,209,77,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Fès-Meknès,Pharmacie Al Amal - Fès,600,198,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Fès-Meknès,Pharmacie Al Amal - Fès,464,178,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Fès-Meknès,Pharmacie Al Amal - Fès,460,189,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Fès-Meknès,Pharmacie Al Amal - Fès,211,136,STABLE
+Metformine 850mg,Metformine,Diabète,Région Fès-Meknès,Pharmacie Centrale - Fès,349,153,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Fès-Meknès,Pharmacie Centrale - Fès,624,138,STABLE
+Insuline Glargine,Insuline,Diabète,Région Fès-Meknès,Pharmacie Centrale - Fès,606,149,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Fès-Meknès,Pharmacie Centrale - Fès,679,179,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Fès-Meknès,Pharmacie Centrale - Fès,588,190,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Fès-Meknès,Pharmacie Centrale - Fès,540,195,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Fès-Meknès,Pharmacie Centrale - Fès,293,76,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Fès-Meknès,Pharmacie Centrale - Fès,277,178,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Fès-Meknès,Pharmacie Centrale - Fès,586,180,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Fès-Meknès,Pharmacie Centrale - Fès,313,85,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Fès-Meknès,Pharmacie Centrale - Fès,269,141,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Fès-Meknès,Pharmacie Centrale - Fès,158,122,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Fès-Meknès,Pharmacie Centrale - Fès,222,68,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Fès-Meknès,Pharmacie Centrale - Fès,355,91,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Fès-Meknès,Pharmacie Centrale - Fès,164,138,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Fès-Meknès,Pharmacie Centrale - Fès,130,52,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Fès-Meknès,Pharmacie Centrale - Fès,191,169,STABLE
+Metformine 850mg,Metformine,Diabète,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,538,137,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,236,183,STABLE
+Insuline Glargine,Insuline,Diabète,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,343,65,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,475,66,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,345,63,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,100,58,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,470,141,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,474,64,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,585,156,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,308,178,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,396,162,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,566,180,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,292,144,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,532,109,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,217,86,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,468,175,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Rabat-Salé-Kénitra,Pharmacie Centrale - Rabat,379,144,STABLE
+Metformine 850mg,Metformine,Diabète,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,222,72,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,265,66,STABLE
+Insuline Glargine,Insuline,Diabète,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,548,76,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,644,171,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,260,135,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,251,96,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,274,75,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,390,58,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,418,130,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,481,119,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,246,119,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,243,168,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,431,195,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,541,56,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,193,56,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,222,103,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Rabat-Salé-Kénitra,Pharmacie Razi - Rabat,449,55,STABLE
+Metformine 850mg,Metformine,Diabète,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,320,74,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,520,104,STABLE
+Insuline Glargine,Insuline,Diabète,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,123,62,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,301,56,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,412,110,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,555,194,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,493,188,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,495,143,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,380,92,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,291,170,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,510,65,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,354,195,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,140,104,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,195,89,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,295,117,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,284,51,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Béni Mellal-Khénifra,Pharmacie Ibn Sina - Béni Mellal,649,174,STABLE
+Metformine 850mg,Metformine,Diabète,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,478,185,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,441,108,STABLE
+Insuline Glargine,Insuline,Diabète,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,464,185,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,245,160,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,539,178,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,164,70,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,615,170,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,410,179,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,283,126,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,314,77,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,576,169,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,509,56,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,316,87,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,530,126,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,303,148,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,491,103,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Béni Mellal-Khénifra,Pharmacie Chifa - Béni Mellal,215,185,STABLE
+Metformine 850mg,Metformine,Diabète,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,382,171,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,546,61,STABLE
+Insuline Glargine,Insuline,Diabète,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,284,179,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,231,173,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,542,126,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,110,62,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,413,121,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,282,74,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,12,463,CRITIQUE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,515,138,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,425,83,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,403,69,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,220,119,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,490,136,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,495,126,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,342,142,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Casablanca-Settat,Pharmacie Centrale - Casablanca,472,172,STABLE
+Metformine 850mg,Metformine,Diabète,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,259,153,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,177,148,STABLE
+Insuline Glargine,Insuline,Diabète,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,417,146,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,651,197,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,608,163,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,250,168,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,320,80,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,257,82,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,36,463,CRITIQUE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,506,113,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,626,189,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,473,195,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,599,176,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,490,88,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,352,156,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,475,104,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Casablanca-Settat,Pharmacie Al Amal - Casablanca,244,175,STABLE
+Metformine 850mg,Metformine,Diabète,Région Casablanca-Settat,Pharmacie Razi - Casablanca,502,187,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Casablanca-Settat,Pharmacie Razi - Casablanca,220,150,STABLE
+Insuline Glargine,Insuline,Diabète,Région Casablanca-Settat,Pharmacie Razi - Casablanca,383,148,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Casablanca-Settat,Pharmacie Razi - Casablanca,443,179,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Casablanca-Settat,Pharmacie Razi - Casablanca,434,77,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Casablanca-Settat,Pharmacie Razi - Casablanca,462,120,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Casablanca-Settat,Pharmacie Razi - Casablanca,542,191,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Casablanca-Settat,Pharmacie Razi - Casablanca,277,171,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Casablanca-Settat,Pharmacie Razi - Casablanca,46,333,CRITIQUE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Casablanca-Settat,Pharmacie Razi - Casablanca,372,132,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Casablanca-Settat,Pharmacie Razi - Casablanca,530,56,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Casablanca-Settat,Pharmacie Razi - Casablanca,660,167,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Casablanca-Settat,Pharmacie Razi - Casablanca,360,185,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Casablanca-Settat,Pharmacie Razi - Casablanca,591,97,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Casablanca-Settat,Pharmacie Razi - Casablanca,511,74,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Casablanca-Settat,Pharmacie Razi - Casablanca,394,148,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Casablanca-Settat,Pharmacie Razi - Casablanca,456,157,STABLE
+Metformine 850mg,Metformine,Diabète,Région Marrakech-Safi,Pharmacie Razi - Marrakech,204,167,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Marrakech-Safi,Pharmacie Razi - Marrakech,322,168,STABLE
+Insuline Glargine,Insuline,Diabète,Région Marrakech-Safi,Pharmacie Razi - Marrakech,11,200,CRITIQUE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Marrakech-Safi,Pharmacie Razi - Marrakech,487,96,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Marrakech-Safi,Pharmacie Razi - Marrakech,223,177,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Marrakech-Safi,Pharmacie Razi - Marrakech,438,122,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Marrakech-Safi,Pharmacie Razi - Marrakech,481,173,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Marrakech-Safi,Pharmacie Razi - Marrakech,509,143,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Marrakech-Safi,Pharmacie Razi - Marrakech,521,163,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Marrakech-Safi,Pharmacie Razi - Marrakech,146,88,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Marrakech-Safi,Pharmacie Razi - Marrakech,427,159,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Marrakech-Safi,Pharmacie Razi - Marrakech,574,155,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Marrakech-Safi,Pharmacie Razi - Marrakech,206,53,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Marrakech-Safi,Pharmacie Razi - Marrakech,510,132,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Marrakech-Safi,Pharmacie Razi - Marrakech,477,100,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Marrakech-Safi,Pharmacie Razi - Marrakech,527,118,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Marrakech-Safi,Pharmacie Razi - Marrakech,390,83,STABLE
+Metformine 850mg,Metformine,Diabète,Région Marrakech-Safi,Pharmacie Salam - Marrakech,212,106,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Marrakech-Safi,Pharmacie Salam - Marrakech,304,188,STABLE
+Insuline Glargine,Insuline,Diabète,Région Marrakech-Safi,Pharmacie Salam - Marrakech,50,196,CRITIQUE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Marrakech-Safi,Pharmacie Salam - Marrakech,206,59,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Marrakech-Safi,Pharmacie Salam - Marrakech,349,64,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Marrakech-Safi,Pharmacie Salam - Marrakech,446,173,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Marrakech-Safi,Pharmacie Salam - Marrakech,375,133,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Marrakech-Safi,Pharmacie Salam - Marrakech,220,128,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Marrakech-Safi,Pharmacie Salam - Marrakech,264,129,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Marrakech-Safi,Pharmacie Salam - Marrakech,459,171,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Marrakech-Safi,Pharmacie Salam - Marrakech,414,53,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Marrakech-Safi,Pharmacie Salam - Marrakech,474,186,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Marrakech-Safi,Pharmacie Salam - Marrakech,627,144,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Marrakech-Safi,Pharmacie Salam - Marrakech,324,107,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Marrakech-Safi,Pharmacie Salam - Marrakech,263,123,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Marrakech-Safi,Pharmacie Salam - Marrakech,274,133,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Marrakech-Safi,Pharmacie Salam - Marrakech,533,108,STABLE
+Metformine 850mg,Metformine,Diabète,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,510,185,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,322,130,STABLE
+Insuline Glargine,Insuline,Diabète,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,15,175,CRITIQUE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,179,69,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,504,179,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,106,60,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,531,93,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,250,60,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,407,110,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,596,130,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,205,59,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,387,76,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,212,167,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,212,135,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,407,73,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,161,124,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Marrakech-Safi,Pharmacie Centrale - Marrakech,174,107,STABLE
+Metformine 850mg,Metformine,Diabète,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,260,173,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,442,154,STABLE
+Insuline Glargine,Insuline,Diabète,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,12,224,CRITIQUE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,194,89,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,431,164,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,305,61,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,394,86,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,556,64,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,470,125,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,417,119,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,253,119,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,437,164,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,194,172,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,384,62,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,116,51,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,285,196,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Marrakech-Safi,Pharmacie Chifa - Marrakech,436,126,STABLE
+Metformine 850mg,Metformine,Diabète,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,414,87,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,301,109,STABLE
+Insuline Glargine,Insuline,Diabète,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,375,125,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,538,97,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,291,112,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,682,196,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,356,119,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,251,56,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,349,108,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,199,100,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,328,125,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,159,106,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,554,142,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,327,118,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,295,171,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,186,158,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Drâa-Tafilalet,Pharmacie Centrale - Drâa,331,119,STABLE
+Metformine 850mg,Metformine,Diabète,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,286,96,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,253,64,STABLE
+Insuline Glargine,Insuline,Diabète,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,447,155,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,575,115,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,238,115,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,321,77,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,410,118,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,615,200,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,236,154,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,310,172,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,513,125,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,637,142,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,126,79,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,519,186,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,546,51,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,220,104,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Drâa-Tafilalet,Pharmacie Razi - Drâa,295,162,STABLE
+Metformine 850mg,Metformine,Diabète,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,443,120,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,607,122,STABLE
+Insuline Glargine,Insuline,Diabète,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,457,122,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,211,162,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,315,183,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,436,144,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,522,154,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,367,164,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,376,63,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,272,149,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,211,56,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,439,159,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,245,174,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,274,103,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,654,183,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,298,115,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Drâa-Tafilalet,Pharmacie Ibn Sina - Drâa,125,82,STABLE
+Metformine 850mg,Metformine,Diabète,Région Souss-Massa,Pharmacie Ibn Sina - Souss,470,57,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Souss-Massa,Pharmacie Ibn Sina - Souss,385,147,STABLE
+Insuline Glargine,Insuline,Diabète,Région Souss-Massa,Pharmacie Ibn Sina - Souss,59,187,MODÉRÉ
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Souss-Massa,Pharmacie Ibn Sina - Souss,354,131,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Souss-Massa,Pharmacie Ibn Sina - Souss,553,170,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Souss-Massa,Pharmacie Ibn Sina - Souss,147,102,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Souss-Massa,Pharmacie Ibn Sina - Souss,216,84,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Souss-Massa,Pharmacie Ibn Sina - Souss,481,95,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Souss-Massa,Pharmacie Ibn Sina - Souss,403,150,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Souss-Massa,Pharmacie Ibn Sina - Souss,262,129,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Souss-Massa,Pharmacie Ibn Sina - Souss,379,131,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Souss-Massa,Pharmacie Ibn Sina - Souss,196,160,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Souss-Massa,Pharmacie Ibn Sina - Souss,361,105,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Souss-Massa,Pharmacie Ibn Sina - Souss,385,147,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Souss-Massa,Pharmacie Ibn Sina - Souss,249,168,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Souss-Massa,Pharmacie Ibn Sina - Souss,472,86,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Souss-Massa,Pharmacie Ibn Sina - Souss,385,63,STABLE
+Metformine 850mg,Metformine,Diabète,Région Souss-Massa,Pharmacie Razi - Souss,579,154,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Souss-Massa,Pharmacie Razi - Souss,400,171,STABLE
+Insuline Glargine,Insuline,Diabète,Région Souss-Massa,Pharmacie Razi - Souss,69,156,MODÉRÉ
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Souss-Massa,Pharmacie Razi - Souss,354,115,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Souss-Massa,Pharmacie Razi - Souss,553,190,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Souss-Massa,Pharmacie Razi - Souss,304,168,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Souss-Massa,Pharmacie Razi - Souss,271,99,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Souss-Massa,Pharmacie Razi - Souss,492,183,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Souss-Massa,Pharmacie Razi - Souss,512,177,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Souss-Massa,Pharmacie Razi - Souss,561,142,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Souss-Massa,Pharmacie Razi - Souss,460,98,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Souss-Massa,Pharmacie Razi - Souss,429,128,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Souss-Massa,Pharmacie Razi - Souss,161,97,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Souss-Massa,Pharmacie Razi - Souss,463,132,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Souss-Massa,Pharmacie Razi - Souss,519,143,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Souss-Massa,Pharmacie Razi - Souss,147,108,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Souss-Massa,Pharmacie Razi - Souss,344,168,STABLE
+Metformine 850mg,Metformine,Diabète,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,655,179,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,589,192,STABLE
+Insuline Glargine,Insuline,Diabète,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,300,80,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,220,54,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,536,155,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,143,81,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,576,149,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,217,187,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,564,151,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,496,131,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,315,99,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,369,197,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,428,150,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,352,56,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,166,80,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,218,151,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Guelmim-Oued Noun,Pharmacie Razi - Guelmim,286,147,STABLE
+Metformine 850mg,Metformine,Diabète,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,312,96,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,297,70,STABLE
+Insuline Glargine,Insuline,Diabète,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,462,60,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,396,199,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,621,184,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,533,82,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,413,174,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,300,192,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,357,196,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,368,50,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,504,87,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,252,109,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,257,84,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,499,195,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,267,170,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,136,77,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Guelmim-Oued Noun,Pharmacie Ibn Sina - Guelmim,487,129,STABLE
+Metformine 850mg,Metformine,Diabète,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,557,119,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,465,159,STABLE
+Insuline Glargine,Insuline,Diabète,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,577,170,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,359,114,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,101,79,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,604,154,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,270,128,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,230,83,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,106,53,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,226,67,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,545,97,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,341,65,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,282,197,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,108,52,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,431,68,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,408,164,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Laâyoune-Sakia El Hamra,Pharmacie Chifa - Laâyoune,362,182,STABLE
+Metformine 850mg,Metformine,Diabète,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,215,125,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,514,72,STABLE
+Insuline Glargine,Insuline,Diabète,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,447,167,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,265,80,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,256,137,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,110,83,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,371,56,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,539,197,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,449,144,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,245,71,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,357,97,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,524,109,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,304,153,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,262,118,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,431,72,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,220,68,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Laâyoune-Sakia El Hamra,Pharmacie Centrale - Laâyoune,453,60,STABLE
+Metformine 850mg,Metformine,Diabète,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,449,87,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,211,175,STABLE
+Insuline Glargine,Insuline,Diabète,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,466,66,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,433,105,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,596,188,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,388,52,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,270,183,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,387,104,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,388,114,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,632,163,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,457,127,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,277,153,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,484,127,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,340,105,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,375,78,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,315,90,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Dakhla-Oued Ed Dahab,Pharmacie Razi - Dakhla,319,188,STABLE
+Metformine 850mg,Metformine,Diabète,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,158,117,STABLE
+Metformine 1000mg,Metformine,Diabète,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,333,61,STABLE
+Insuline Glargine,Insuline,Diabète,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,109,67,STABLE
+Glibenclamide 5mg,Glibenclamide,Diabète,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,108,59,STABLE
+Amlodipine 5mg,Amlodipine,Hypertension,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,536,126,STABLE
+Amlodipine 10mg,Amlodipine,Hypertension,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,518,82,STABLE
+Losartan 50mg,Losartan,Hypertension,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,137,106,STABLE
+Bisoprolol 2.5mg,Bisoprolol,Hypertension,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,254,80,STABLE
+Oseltamivir (Tamiflu) 75mg,Oseltamivir,Grippe / Covid,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,191,133,STABLE
+Paracétamol 1g,Paracétamol,Fièvre / Douleur,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,192,103,STABLE
+Amoxicilline 500mg,Amoxicilline,Infection,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,163,72,STABLE
+Amoxicilline + Acide clavulanique 1g,Amoxicilline,Infection,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,280,183,STABLE
+Rifampicine 300mg,Rifampicine,Tuberculose,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,176,149,STABLE
+Isoniazide 100mg,Isoniazide,Tuberculose,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,663,184,STABLE
+Ténofovir 300mg,Ténofovir,Hépatite B,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,618,195,STABLE
+Salbutamol (Inhalateur) 100µg,Salbutamol,Asthme,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,372,135,STABLE
+Fluticasone (Inhalateur) 125µg,Fluticasone,Asthme,Région Dakhla-Oued Ed Dahab,Pharmacie Centrale - Dakhla,440,134,STABLE
